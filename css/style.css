@@ -57,6 +57,7 @@ ul.timeline > li:before {
 }
 #contact{
     text-align: center;
+
 }
 p{
     text-align: center;
@@ -64,4 +65,8 @@ p{
 #img1{
     background-image: url(../image.jpg);
     background-size: cover;
+}
+card{
+    height : 20em;
+    width: 18em;
 }
