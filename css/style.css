@@ -1,15 +1,16 @@
 body{
     font-family: Bebas Neue , serif ;
-
+    background-color: transparent;
 }
 nav{
     background-color: #e8cb62;
     font-size: 20px;
 }
+
+
 #intro{
     color: #959287;
     font-size: 300px;
-
 }
 #sect1{
     margin-top: 10vh;
@@ -59,4 +60,8 @@ ul.timeline > li:before {
 }
 p{
     text-align: center;
+}
+#img1{
+    background-image: url(../image.jpg);
+    background-size: cover;
 }
