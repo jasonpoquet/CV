@@ -14,6 +14,9 @@ nav{
     margin-top: 10vh;
     text-align: center;
 }
+#competence{
+    text-align: center;
+}
 ul.timeline {
     list-style-type: none;
     position: relative;
