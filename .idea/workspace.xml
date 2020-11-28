@@ -1,8 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="aa13e21f-2129-4f63-b7da-8db937734bc8" name="Default Changelist" comment="Ajout compétences">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,6 +73,8 @@
       <workItem from="1606384484091" duration="1268000" />
       <workItem from="1606387295495" duration="1098000" />
       <workItem from="1606407109869" duration="23293000" />
+      <workItem from="1606486721334" duration="1509000" />
+      <workItem from="1606548262666" duration="4580000" />
     </task>
     <task id="LOCAL-00001" summary="Modif CV">
       <created>1606468031924</created>
@@ -131,16 +153,36 @@
       <option name="project" value="LOCAL" />
       <updated>1606480741651</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="Modif">
+      <created>1606486904194</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1606486904194</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Modif CV" />
     <MESSAGE value="Ajout compétences" />
-    <option name="LAST_COMMIT_MESSAGE" value="Ajout compétences" />
+    <MESSAGE value="Modif" />
+    <option name="LAST_COMMIT_MESSAGE" value="Modif" />
   </component>
   <component name="WindowStateProjectService">
     <state x="463" y="119" key="FileChooserDialogImpl" timestamp="1606385761271">
@@ -155,9 +197,9 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="524" y="69" key="Github.UntrackedFilesDialog/0.0.1366.728@0.0.1366.728" timestamp="1606467904634" />
-    <state x="0" y="0" key="Vcs.Push.Dialog.v2" timestamp="1606480748650">
+    <state x="0" y="0" key="Vcs.Push.Dialog.v2" timestamp="1606486906576">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="0" y="0" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1606480748650" />
+    <state x="0" y="0" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1606486906576" />
   </component>
 </project>

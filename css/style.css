@@ -6,8 +6,13 @@ nav{
     background-color: #e8cb62;
     font-size: 20px;
 }
-
-
+.legende{
+    color: #5a6268;
+}
+.titre{
+    -webkit-text-stroke: 1px;
+    -webkit-text-stroke-color: #000000;
+}
 #intro{
     color: #959287;
     font-size: 300px;
@@ -59,6 +64,9 @@ ul.timeline > li:before {
     text-align: center;
 
 }
+.barre{
+    background-color: #533f03;
+}
 p{
     text-align: center;
 }
@@ -66,7 +74,11 @@ p{
     background-image: url(../image.jpg);
     background-size: cover;
 }
-card{
-    height : 20em;
+.card{
+    height : 22em;
     width: 18em;
+}
+#CV{
+    background-color: #e8cb62;
+    align-content: center;
 }
