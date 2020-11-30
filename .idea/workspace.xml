@@ -75,7 +75,7 @@
       <workItem from="1606548262666" duration="5225000" />
       <workItem from="1606562666071" duration="811000" />
       <workItem from="1606737277972" duration="905000" />
-      <workItem from="1606738447357" duration="4823000" />
+      <workItem from="1606738447357" duration="5675000" />
     </task>
     <task id="LOCAL-00001" summary="Modif CV">
       <created>1606468031924</created>
@@ -203,7 +203,14 @@
       <option name="project" value="LOCAL" />
       <updated>1606741416253</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="Modification CV">
+      <created>1606743764000</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1606743764000</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -242,9 +249,9 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="524" y="69" key="Github.UntrackedFilesDialog/0.0.1366.728@0.0.1366.728" timestamp="1606467904634" />
-    <state x="0" y="0" key="Vcs.Push.Dialog.v2" timestamp="1606741418336">
+    <state x="0" y="0" key="Vcs.Push.Dialog.v2" timestamp="1606743767118">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="0" y="0" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1606741418336" />
+    <state x="0" y="0" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1606743767118" />
   </component>
 </project>
