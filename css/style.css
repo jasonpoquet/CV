@@ -3,11 +3,13 @@ body{
     background-color: transparent;
 }
 nav{
-    background-color: #e8cb62;
+    background-color: ;
     font-size: 20px;
 }
 .legende{
-    color: #5a6268;
+    color: antiquewhite;
+    -webkit-text-stroke: 1px;
+    -webkit-text-stroke-color: #000000;
 }
 .titre{
     -webkit-text-stroke: 1px;
