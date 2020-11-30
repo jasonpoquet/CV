@@ -74,11 +74,12 @@ p{
     background-image: url(../image.jpg);
     background-size: cover;
 }
-.card{
-    height : 22em;
-    width: 18em;
-}
 #CV{
     background-color: #e8cb62;
     align-content: center;
+}
+.images{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
 }

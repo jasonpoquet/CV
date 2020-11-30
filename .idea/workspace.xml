@@ -74,7 +74,10 @@
       <workItem from="1606387295495" duration="1098000" />
       <workItem from="1606407109869" duration="23293000" />
       <workItem from="1606486721334" duration="1509000" />
-      <workItem from="1606548262666" duration="4580000" />
+      <workItem from="1606548262666" duration="5225000" />
+      <workItem from="1606562666071" duration="811000" />
+      <workItem from="1606737277972" duration="905000" />
+      <workItem from="1606738447357" duration="554000" />
     </task>
     <task id="LOCAL-00001" summary="Modif CV">
       <created>1606468031924</created>
@@ -160,7 +163,14 @@
       <option name="project" value="LOCAL" />
       <updated>1606486904194</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="Rajout dans CV">
+      <created>1606553131409</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1606553131409</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -182,7 +192,8 @@
     <MESSAGE value="Modif CV" />
     <MESSAGE value="Ajout compétences" />
     <MESSAGE value="Modif" />
-    <option name="LAST_COMMIT_MESSAGE" value="Modif" />
+    <MESSAGE value="Rajout dans CV" />
+    <option name="LAST_COMMIT_MESSAGE" value="Rajout dans CV" />
   </component>
   <component name="WindowStateProjectService">
     <state x="463" y="119" key="FileChooserDialogImpl" timestamp="1606385761271">
@@ -197,9 +208,9 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="524" y="69" key="Github.UntrackedFilesDialog/0.0.1366.728@0.0.1366.728" timestamp="1606467904634" />
-    <state x="0" y="0" key="Vcs.Push.Dialog.v2" timestamp="1606486906576">
+    <state x="0" y="0" key="Vcs.Push.Dialog.v2" timestamp="1606553576838">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="0" y="0" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1606486906576" />
+    <state x="0" y="0" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1606553576838" />
   </component>
 </project>
