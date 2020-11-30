@@ -23,6 +23,9 @@ nav{
     margin-top: 10vh;
     text-align: center;
 }
+#formation{
+    text-align: center;
+}
 #competence{
     text-align: center;
 }
@@ -87,4 +90,16 @@ p{
 }
 .card{
     height: auto;
+}
+#about:target{
+    padding-top:60px;
+    margin-top:-60px;
+}
+#formation:target{
+    padding-top:60px;
+    margin-top:-60px;
+}
+#competence:target{
+    padding-top:60px;
+    margin-top:-60px;
 }
