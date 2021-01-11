@@ -20,6 +20,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="aa13e21f-2129-4f63-b7da-8db937734bc8" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/images/3392075.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/fond-geometrique_23-2148573776.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/CV.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/CV.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/style.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
@@ -53,12 +56,13 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../GRETA" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\JasonPC\PhpstormProjects\CV\images" />
       <recent name="C:\html5\CV" />
     </key>
   </component>
@@ -80,7 +84,10 @@
       <workItem from="1606738447357" duration="5675000" />
       <workItem from="1608192509809" duration="6282000" />
       <workItem from="1609175829731" duration="89000" />
-      <workItem from="1609402560102" duration="2018000" />
+      <workItem from="1609402560102" duration="2372000" />
+      <workItem from="1609923328071" duration="10000" />
+      <workItem from="1609930394312" duration="27000" />
+      <workItem from="1610386570740" duration="2206000" />
     </task>
     <task id="LOCAL-00001" summary="Modif CV">
       <created>1606468031924</created>
@@ -229,7 +236,14 @@
       <option name="project" value="LOCAL" />
       <updated>1609404612480</updated>
     </task>
-    <option name="localTasksCounter" value="22" />
+    <task id="LOCAL-00022" summary="Modifs CV">
+      <created>1609404962464</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1609404962464</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -256,28 +270,5 @@
     <MESSAGE value="Modifications CV" />
     <MESSAGE value="Modifs CV" />
     <option name="LAST_COMMIT_MESSAGE" value="Modifs CV" />
-  </component>
-  <component name="WindowStateProjectService">
-    <state x="800" y="17" key="CommitChangelistDialog2" timestamp="1608201349236">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="800" y="17" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1608201349236" />
-    <state x="463" y="119" key="FileChooserDialogImpl" timestamp="1606742405706">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state x="463" y="119" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1606742405706" />
-    <state x="561" y="262" key="Github.ShareDialog" timestamp="1606467891186">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state x="561" y="262" key="Github.ShareDialog/0.0.1366.728@0.0.1366.728" timestamp="1606467891186" />
-    <state x="524" y="69" key="Github.UntrackedFilesDialog" timestamp="1606467904634">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state x="524" y="69" key="Github.UntrackedFilesDialog/0.0.1366.728@0.0.1366.728" timestamp="1606467904634" />
-    <state x="0" y="0" key="Vcs.Push.Dialog.v2" timestamp="1608201354094">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="0" y="0" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1606743767118" />
-    <state x="0" y="0" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1608201354094" />
   </component>
 </project>
