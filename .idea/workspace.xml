@@ -20,8 +20,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="aa13e21f-2129-4f63-b7da-8db937734bc8" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/css/timeline.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/timeline.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/timeline.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -84,7 +84,7 @@
       <workItem from="1609402560102" duration="2372000" />
       <workItem from="1609923328071" duration="10000" />
       <workItem from="1609930394312" duration="27000" />
-      <workItem from="1610386570740" duration="2865000" />
+      <workItem from="1610386570740" duration="5230000" />
     </task>
     <task id="LOCAL-00001" summary="Modif CV">
       <created>1606468031924</created>
@@ -247,7 +247,14 @@
       <option name="project" value="LOCAL" />
       <updated>1610388858518</updated>
     </task>
-    <option name="localTasksCounter" value="24" />
+    <task id="LOCAL-00024" summary="Modifs CV">
+      <created>1610389617734</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1610389617734</updated>
+    </task>
+    <option name="localTasksCounter" value="25" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
