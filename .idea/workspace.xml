@@ -20,11 +20,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="aa13e21f-2129-4f63-b7da-8db937734bc8" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/CV.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/CV.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/timeline.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/timeline.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CV.docx" beforeDir="false" afterPath="$PROJECT_DIR$/files/CV.docx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CV.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/files/CV.pdf" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -62,6 +60,7 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\JasonPC\PhpstormProjects\CV\files" />
       <recent name="C:\Users\JasonPC\PhpstormProjects\CV\images" />
       <recent name="C:\html5\CV" />
     </key>
@@ -89,7 +88,7 @@
       <workItem from="1609930394312" duration="27000" />
       <workItem from="1610386570740" duration="5844000" />
       <workItem from="1610546611141" duration="22000" />
-      <workItem from="1610804831800" duration="4086000" />
+      <workItem from="1610804831800" duration="4480000" />
     </task>
     <task id="LOCAL-00001" summary="Modif CV">
       <created>1606468031924</created>
@@ -266,7 +265,21 @@
       <option name="project" value="LOCAL" />
       <updated>1610395381478</updated>
     </task>
-    <option name="localTasksCounter" value="26" />
+    <task id="LOCAL-00026" summary="Modifs CV">
+      <created>1610809230050</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1610809230050</updated>
+    </task>
+    <task id="LOCAL-00027" summary="Modifs CV">
+      <created>1610809268754</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1610809268754</updated>
+    </task>
+    <option name="localTasksCounter" value="28" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
